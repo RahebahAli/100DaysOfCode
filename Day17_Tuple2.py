@@ -33,4 +33,4 @@ index for specified item and count for specified item.'''
 print(max(Number))
 print(min(Number))
 print(Number.count(3))
-print(Number.index(7))
+print(Number.index(3))
