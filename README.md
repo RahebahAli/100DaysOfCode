@@ -1,6 +1,7 @@
 # #100DaysOfCode
 ## Introduction
-It is a challenge that aims to contribute to the self-learning for a one of a programming language.
+It is a challenge that aims to contribute to the self-learning for a one of a programming language.<br>
+By: #saudidevorg
 
 ## #100DaysOfCode
 This repository will be for challenge #100DaysOfCode related to Python learning.<br>
